@@ -49,6 +49,7 @@ function esImparOPar(numero){
 
 
 console.log(esImparOPar(2))
+console.log(mensaje)
 
 
 
